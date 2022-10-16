@@ -1,0 +1,29 @@
+{
+  "name": "grga.ml",
+  "version": "1.0.0",
+  "description": "Gargamelle - A SuperCollider Web Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadron-sclang/grga.ml.git"
+  },
+  "keywords": [],
+  "author": "Luke Nihlen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/hadron-sclang/grga.ml/issues"
+  },
+  "homepage": "https://github.com/hadron-sclang/grga.ml",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.11.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
